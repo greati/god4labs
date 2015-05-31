@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Users/Vitor/Desktop/Projeto%20-%20Vitor%20Rodrigues%20Greati/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/AvatarTools.java</file>
+        <file>file:/C:/Users/Vitor/Desktop/Projeto%20-%20Vitor%20Rodrigues%20Greati/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaBuscarUsuario.java</file>
+        <file>file:/C:/Users/Vitor/Desktop/Projeto%20-%20Vitor%20Rodrigues%20Greati/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaEditarUsuario.java</file>
+        <file>file:/C:/Users/Vitor/Desktop/Projeto%20-%20Vitor%20Rodrigues%20Greati/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaSelecionarUsuario.java</file>
+        <file>file:/C:/Users/Vitor/Desktop/Projeto%20-%20Vitor%20Rodrigues%20Greati/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaBuscarEquipamento.java</file>
+        <file>file:/C:/Users/Vitor/Desktop/Projeto%20-%20Vitor%20Rodrigues%20Greati/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaMeusProjetos.java</file>
+        <file>file:/C:/Users/Vitor/Desktop/Projeto%20-%20Vitor%20Rodrigues%20Greati/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaSelecionarProjeto.java</file>
+    </open-files>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaReservarEquipamento.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaInicialLogada.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/persistence/UsuarioDAO.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaDetalhesUsuario.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaBuscarEquipamento.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaBuscarUsuario.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaSelecionarUsuario.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaDetalhesAnotacao.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaListarMetas.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/persistence/ConexaoSQLServer.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaDetalhesProjeto.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaSelecionarProjeto.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaSelecionarEquipamento.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaNovoProjeto.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaInicial.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaListarAnotacoes.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaEditorEquipamento.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaEditarUsuario.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaSobre.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaDetalhesEquipamento.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaNovaCategoriaEquipamento.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaNovoUsuario.java</file>
+            <file>file:/K:/QuimiLab/GOD4LABS/src/br/com/vitorgreati/view/equipamentos/TelaMeusProjetos.java</file>
+        </group>
+    </open-files>
+</project-private>
