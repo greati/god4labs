@@ -11,7 +11,7 @@ It uses the following technologies:
 1. Install Netbeans IDE
 2. Import the project
 3. Install MySQL
-4. Run the database script on MySQL
+4. Run the database script (GOD4LABS _SQL_SCRIPT.sql) on MySQL
 5. Run the application
 
 Any doubts, please, refer to greati@ufrn.edu.br
