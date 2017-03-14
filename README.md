@@ -7,7 +7,7 @@ It uses the following technologies:
 * Java 7 - Swing - JDBC
 * MySQL 5
 
-##Setting up
+## Setting up
 1. Install Netbeans IDE
 2. Import the project
 3. Install MySQL
